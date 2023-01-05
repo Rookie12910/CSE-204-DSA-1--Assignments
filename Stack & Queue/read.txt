@@ -1,0 +1,12 @@
+ArrayList.h -> This header file contains ArrayList class
+LinkedList.h -> This header file contains LinkedList class
+MyQueue.h ->This header file contains MyQueue abstract class
+MyStack.h->This header file contains MyStack abstract class
+ArrayQueue.h-> ArrayList based implementation of MyQueue class
+ArrayStack.h-> ArrayList based implementation of MyStack class
+LinkedQueue.h-> LinkedList based implementation of MyQueue class
+LinkedStack.h-> LinkedList based implementation of MyStack class
+Main.cpp->This cpp file contains the main function that demonstrates the implementation of Stack and Queue
+Task2.cpp ->This cpp file demonstrate the solution of task2
+input.txt-> test case for Main.cpp
+task2input.txt->test case for Task2.cpp
